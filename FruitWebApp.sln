@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitWebApp", "FruitWebApp-codebehind\FruitWebApp.csproj", "{B756E16C-8BCD-4BC4-86A8-B064B9F75726}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitAPI", "fruitapi\FruitAPI.csproj", "{9933515F-3729-4BE6-87DF-ED1E28DE5C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B756E16C-8BCD-4BC4-86A8-B064B9F75726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B756E16C-8BCD-4BC4-86A8-B064B9F75726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B756E16C-8BCD-4BC4-86A8-B064B9F75726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B756E16C-8BCD-4BC4-86A8-B064B9F75726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9933515F-3729-4BE6-87DF-ED1E28DE5C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9933515F-3729-4BE6-87DF-ED1E28DE5C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9933515F-3729-4BE6-87DF-ED1E28DE5C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9933515F-3729-4BE6-87DF-ED1E28DE5C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64BD7640-2F39-4D24-B35B-067CA2E38002}
+	EndGlobalSection
+EndGlobal
